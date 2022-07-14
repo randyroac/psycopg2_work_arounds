@@ -2,6 +2,7 @@
 
 #### Workarounds when having issues installing pscopg2-binary on mac OS.
 
+###Checkout related youtube video https://youtu.be/0vwkUSYXeAE
 
 These are solid psycopg2 workaround options that I have tried.
 
